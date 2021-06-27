@@ -1,8 +1,11 @@
 # DES
 
-## Tip
+## Tips
 
-Initial vector(des\_iv\.txt) and key(des\_key\.txt) should be placed in the folder "file" in the same directory with the \.exe\.
+- Initial vector(des\_iv\.txt) and key(des\_key\.txt) should be placed in the folder "file" in the same directory with the \.exe\.
+
+- If the teaching assistant in your course just care about the result, you should wait for those who do well in programming to finish their homework first. Then, copy their source code instead of wasting time searching online\.
+- Spending plenty of time on Word and PowerPoint makes your marks higher\.
 
 ## Commands
 
